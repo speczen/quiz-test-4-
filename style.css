@@ -382,6 +382,7 @@ h2 {
     padding: 14px 28px;
     border-radius: 10px;
     background: #35a853;
+    color: white;
 }
 
 @media (max-width: 500px) {
