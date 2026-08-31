@@ -1,9 +1,5 @@
 [
     {
-        "name": "albert einstein",
-        "image": "images/albert einstein.png"
-    },
-    {
         "name": "ambedkar",
         "image": "images/ambedkar.png"
     },
@@ -30,10 +26,6 @@
     {
         "name": "napoleon bonaparte",
         "image": "images/napoleon bonaparte.png"
-    },
-    {
-        "name": "nikola testla",
-        "image": "images/nikola testla.png"
     },
     {
         "name": "srinivasa ramanujan",
