@@ -383,6 +383,7 @@ h2 {
     border-radius: 10px;
     background: #35a853;
     color: white;
+    font-weight: bold;
 }
 
 @media (max-width: 500px) {
